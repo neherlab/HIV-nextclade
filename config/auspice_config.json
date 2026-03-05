@@ -34,7 +34,13 @@
   "panels": ["tree","entropy"],
   "extensions": {
     "nextclade": {
-      "clade_node_attrs": [
+      "clade_node_attrs": [],
+      "placement_mask_ranges": [
+        {"begin": 0, "end": 336},
+        {"begin": 5780, "end": 5870},
+        {"begin": 6160, "end": 6240},
+        {"begin": 6940, "end": 7020},
+        {"begin": 8963, "end": 9181}
       ]
     }
   }
