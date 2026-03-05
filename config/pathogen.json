@@ -16,16 +16,6 @@
       "cli": "3.0.0-alpha.0",
       "web": "3.0.0-alpha.0"
     },
-    "placementMaskRanges":[
-      {"begin":0, "end":336},
-      {"begin":5780, "end":5870},
-      {"begin":6160, "end":6240},
-      {"begin":6940, "end":7020},
-      {"begin":8963, "end":9181}
-    ],
-    "deprecated": false,
-    "enabled": true,
-    "experimental": false,
     "files": {
         "pathogenJson": "pathogen.json",
         "changelog": "CHANGELOG.md",
@@ -35,7 +25,6 @@
         "reference": "reference.fasta",
         "treeJson": "tree.json"
     },
-    "official": true,
     "qc": {
       "frameShifts": {
         "enabled": true,
